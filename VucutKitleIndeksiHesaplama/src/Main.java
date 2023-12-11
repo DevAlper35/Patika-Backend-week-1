@@ -1,4 +1,6 @@
 import java.util.Scanner;
+//Vucut Kitle Indeksi Hesaplama Bu kodlamada kullanıcının girdiği Boy ve Kilo bilgileriyle Vucut Kitle Indeksi Hesaplaması yapılıyor
+// Readme.md dökümanına "https://github.com/DevAlper35/week-1/tree/main" adresinden erişebilirsiniz.
 public class Main {
     public static void main ( String[]args){
         Scanner input = new Scanner(System.in);
