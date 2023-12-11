@@ -9,3 +9,6 @@ Bu kodlamada kullanıcının girdiği Armut, Elma, Domates, Muz ve Patlıcan ağ
 
 Çin Zodyağı Hesaplama
 Bu kodlamada Doğum tarihinize göre Çin Zodyağı burcu hesaplanıyor
+
+Artık Yıl Hesaplama 
+Bu kodlama girilen yılın artık yıl olup olmadığı hesaplanıyor
