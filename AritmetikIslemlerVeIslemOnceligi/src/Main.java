@@ -1,4 +1,6 @@
 import java.util.Scanner;
+//Aritmetik İşlemler Ve İşlem Önceliği Bu kodlamada kullanıcıdan girilen 3 farklı sayı ile ilgili aritmetik işlemler pratiği yapılıyor
+// Readme.md dökümanına "https://github.com/DevAlper35/week-1/tree/main" adresinden erişebilirsiniz.
 public class Main {
     public static void main(String[] args) {
         int numberA, numberB, numberC, result;
