@@ -1,6 +1,6 @@
 import java.util.Scanner;
-
 // Bu kodlama kullanıcının girdiği Armut, Elma, Domates, Muz ve Patlıcan ağırlıklarına göre toplam fiyatlandırma yapıyor
+// Readme.md dökümanına "https://github.com/DevAlper35/week-1/tree/main" adresinden erişebilirsiniz.
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
