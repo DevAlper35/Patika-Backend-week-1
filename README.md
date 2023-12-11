@@ -12,3 +12,6 @@ Bu kodlamada Doğum tarihinize göre Çin Zodyağı burcu hesaplanıyor
 
 Artık Yıl Hesaplama 
 Bu kodlama girilen yılın artık yıl olup olmadığı hesaplanıyor
+
+Min Max Sayıları Bulma
+Bu kodlama kullanıcının girdiği sayılar arasında en küçük ve en büyük sayıyı tespit ediyor
