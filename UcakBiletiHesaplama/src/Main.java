@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// { }  [ ]
+// Kullanıcıdan gelen bilgilere göre Uçak bileti ücretini hesaplayan kodlama
 class Main{
     public static void main(String []args){
         int km, age, opt;
