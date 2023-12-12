@@ -16,7 +16,7 @@ public class Main {
             }
 
         }
-        // Şartların
+        // Şartların sağlanması sonucu ekrana basılacak kısımlar
         if(counter == n){
             System.out.print("Girdiğiniz " + n + " sayısı mükemmel sayıdır.");
         }
